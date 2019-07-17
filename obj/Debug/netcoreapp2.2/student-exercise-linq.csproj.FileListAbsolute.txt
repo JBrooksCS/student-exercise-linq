@@ -1,0 +1,11 @@
+/Users/jason/Workspace/student-exercise-linq/bin/Debug/netcoreapp2.2/student-exercise-linq.deps.json
+/Users/jason/Workspace/student-exercise-linq/bin/Debug/netcoreapp2.2/student-exercise-linq.runtimeconfig.json
+/Users/jason/Workspace/student-exercise-linq/bin/Debug/netcoreapp2.2/student-exercise-linq.runtimeconfig.dev.json
+/Users/jason/Workspace/student-exercise-linq/bin/Debug/netcoreapp2.2/student-exercise-linq.dll
+/Users/jason/Workspace/student-exercise-linq/bin/Debug/netcoreapp2.2/student-exercise-linq.pdb
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.csprojAssemblyReference.cache
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.AssemblyInfoInputs.cache
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.AssemblyInfo.cs
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.dll
+/Users/jason/Workspace/student-exercise-linq/obj/Debug/netcoreapp2.2/student-exercise-linq.pdb
